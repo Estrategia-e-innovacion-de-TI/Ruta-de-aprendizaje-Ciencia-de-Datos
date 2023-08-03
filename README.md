@@ -3,9 +3,9 @@
 
 > **Note**: Las rutas de conocimiento se encuentran en constante actualización.
 
-![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/JoseMVergara/Ruta_de_aprendizaje_ML?color=orange&label=versi%C3%B3n%20actual&logo=version)
+![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?color=orange&label=versi%C3%B3n%20actual&logo=version)
 
-![Última actualización](https://img.shields.io/github/last-commit/JoseMVergara/Ruta_de_aprendizaje_ML?label=%C3%9Altima%20actualizaci%C3%B3n)
+![Última actualización](https://img.shields.io/github/last-commit/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?label=%C3%9Altima%20actualizaci%C3%B3n)
 
 
 
@@ -27,7 +27,7 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 - Cruces de información.
 - Perfilación de clientes.
 
-:white_check_mark: Puedes acceder a la ruta de conocimiento para analista de datos haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/analista_datos.md).
+:white_check_mark: Puedes acceder a la ruta de conocimiento para analista de datos haciendo click [aquí](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/analista_datos.md).
 
 
 ---
@@ -38,7 +38,7 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 - Evalúa el performance del modelo y garantiza las fortalezas y debilidades del modelo analítico​.
 - Documenta y comparte la solución analítica y los impactos que tiene al reto enfrentado.
 
-:white_check_mark: Puedes acceder a la ruta de conocimiento para científico/a de datos haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Cientifico_datos.md).
+:white_check_mark: Puedes acceder a la ruta de conocimiento para científico/a de datos haciendo click [aquí](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Cientifico_datos.md).
 
 ---
 
@@ -49,7 +49,7 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 - Creación de herramientas para análisis autónomos de información​
 - Calendarizaciones
 
-:white_check_mark: Puedes acceder a la ruta de conocimiento para Ingeniero/a de datos haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Ing_datos.md).
+:white_check_mark: Puedes acceder a la ruta de conocimiento para Ingeniero/a de datos haciendo click [aquí](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Ing_datos.md).
 
 ---
 
@@ -63,7 +63,7 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 - Colaboración con equipos de desarrollo y de negocio para la implementación de soluciones basadas en Machine Learning
 - Investigación y experimentación con nuevas técnicas y tecnologías de Machine Learning para mantenerse actualizado en la disciplina.
 
-:white_check_mark: Puedes acceder a la ruta de conocimiento para Ingeniero/a de Machine Learning haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Ing_ML.md).
+:white_check_mark: Puedes acceder a la ruta de conocimiento para Ingeniero/a de Machine Learning haciendo click [aquí](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Ing_ML.md).
 
 ---
 
@@ -83,6 +83,6 @@ Sin embargo, puedes encontrar una ruta de conocimientos de ciencia de datos para
 
 **Ciencia de datos para líderes:** ¿Te gustaría comprender mejor qué es la ciencia de datos y cómo puede ayudarte a tomar decisiones estratégicas fundamentadas en información concreta? Este programa te ofrece una oportunidad única para adquirir los conocimientos necesarios y explorar las herramientas clave de la ciencia de datos, sin requerir una experiencia técnica previa. Nuestro objetivo es proporcionarte una visión panorámica de la ciencia de datos y proporcionarte herramientas prácticas que puedas aplicar de inmediato en tu rol de liderazgo.
 
-:white_check_mark: Puedes acceder a la ruta de conocimiento de Ciencia de datos para líderes haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/CD_para_lideres.md).
+:white_check_mark: Puedes acceder a la ruta de conocimiento de Ciencia de datos para líderes haciendo click [aquí](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/CD_para_lideres.md).
 
 ---
