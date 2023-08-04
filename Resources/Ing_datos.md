@@ -20,9 +20,10 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
 
 <!-- > **Note**: Encontrarás el simbolo :exclamation:  para aquellas lecciones opcionales. Solo si deseas aprender ciertas habilidades específicas y llevar tus habilidades como analista de datos a un siguiente nivel.  -->
 
-![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/JoseMVergara/Ruta_de_aprendizaje_ML?color=orange&label=versi%C3%B3n%20actual&logo=version)
+![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?color=orange&label=versi%C3%B3n%20actual&logo=version)
 
-![Última actualización](https://img.shields.io/github/last-commit/JoseMVergara/Ruta_de_aprendizaje_ML?label=%C3%9Altima%20actualizaci%C3%B3n)
+![Última actualización](https://img.shields.io/github/last-commit/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?label=%C3%9Altima%20actualizaci%C3%B3n)
+
 
 
 
@@ -493,16 +494,16 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
 # **Programación**
 
 
-## [**Introducción a la programación en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
+## [**Introducción a la programación en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md)
 - **Descripción:** Comience con Python, si no tiene experiencia en codificación.
 - **Duración:** 5 horas
 - **idioma:** Inglés
 - **Contenido:**
-    - [Aritmética y variables](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#aritm%C3%A9tica-y-variables)
-    - [Funciones](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#funciones)
-    - [Tipos de datos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#tipos-de-datos)
-    - [Condiciones y Declaraciones Condicionales](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#condiciones-y-declaraciones-condicionales)
-    - [Introducción a las listas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#introducci%C3%B3n-a-las-listas)
+    - [Aritmética y variables](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#aritm%C3%A9tica-y-variables)
+    - [Funciones](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#funciones)
+    - [Tipos de datos](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#tipos-de-datos)
+    - [Condiciones y Declaraciones Condicionales](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#condiciones-y-declaraciones-condicionales)
+    - [Introducción a las listas](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#introducci%C3%B3n-a-las-listas)
   
 
 ## [**Introducción a Python - Capacidades Analíticas y Gobierno de Información :camera:**](https://bancolombia.sharepoint.com/:f:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20B%C3%81SICOS/INTRODUCCI%C3%93N%20A%20PYTHON%202022?csf=1&web=1&e=Av7agb)
@@ -536,19 +537,19 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
     - [Uso de librería Numpy y conexión a base de datos](https://bancolombia.sharepoint.com.mcas.ms/sites/co-vsti/SitePages/skill-hacking-rutas-de-conocimiento-lenguajes-python.aspx#uso-de-librer%C3%ADa-numpy-y-conexi%C3%B3n-a-base-de-datos-(video))
 
     
-## [**Aprende todos los fundamentos de Pandas - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md)
+## [**Aprende todos los fundamentos de Pandas - Kaggle :page_facing_up: :blue_book:**](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md)
 - **Descripción:** Con los recursos disponibles, aprenderá todo sobre pandas, la biblioteca de Python más popular para el análisis de datos.
 
     En el camino, completará varios ejercicios prácticos con datos del mundo real. Le recomendamos que trabaje en los ejercicios mientras lee los tutoriales correspondientes.
 - **Duración:** 6 horas
 - **Idioma:** Inglés
 - **Contenido:**
-    - [Crear, leer y escribir](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)
-    - [Indexación, selección y asignación](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#indexaci%C3%B3n-selecci%C3%B3n-y-asignaci%C3%B3n)
-    - [Resumen de funciones y maps](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#resumen-de-funciones-y-maps)
-    - [Agrupar y ordenar](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#agrupar-y-ordenar)
-    - [Tipos de datos y valores faltantes](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#tipos-de-datos-y-valores-faltantes)
-    - [Renombrar y combinar](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#renombrar-y-combinar)
+    - [Crear, leer y escribir](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#crear-leer-y-escribir)
+    - [Indexación, selección y asignación](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#indexaci%C3%B3n-selecci%C3%B3n-y-asignaci%C3%B3n)
+    - [Resumen de funciones y maps](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#resumen-de-funciones-y-maps)
+    - [Agrupar y ordenar](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#agrupar-y-ordenar)
+    - [Tipos de datos y valores faltantes](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#tipos-de-datos-y-valores-faltantes)
+    - [Renombrar y combinar](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#renombrar-y-combinar)
 
 
 # **Visualización de datos**

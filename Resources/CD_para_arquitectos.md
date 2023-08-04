@@ -13,9 +13,10 @@ Además, exploraremos cómo crear arquitecturas costo eficientes y seguras para 
 
 > **Note**: La ruta de aprendizaje se encuentra en constante actualización.
 
-![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/JoseMVergara/Ruta_de_aprendizaje_ML?color=orange&label=versi%C3%B3n%20actual&logo=version)
+![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?color=orange&label=versi%C3%B3n%20actual&logo=version)
 
-![Última actualización](https://img.shields.io/github/last-commit/JoseMVergara/Ruta_de_aprendizaje_ML?label=%C3%9Altima%20actualizaci%C3%B3n)
+![Última actualización](https://img.shields.io/github/last-commit/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?label=%C3%9Altima%20actualizaci%C3%B3n)
+
 
 <!-- |01-Fundamentos de Ciencia de datos | 1 hora| :construction: (En construcción)| Estrategia e Innovación TI | -->
 

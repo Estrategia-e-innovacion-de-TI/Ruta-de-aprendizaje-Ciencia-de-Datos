@@ -20,9 +20,10 @@ No se requiere experiencia previa en análisis de datos. Lo importante es tener 
 
 > **Note**: Encontrarás el simbolo :exclamation:  para aquellas lecciones opcionales. Solo si deseas aprender ciertas habilidades específicas y llevar tus habilidades como analista de datos a un siguiente nivel. 
 
-![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/JoseMVergara/Ruta_de_aprendizaje_ML?color=orange&label=versi%C3%B3n%20actual&logo=version)
+![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?color=orange&label=versi%C3%B3n%20actual&logo=version)
 
-![Última actualización](https://img.shields.io/github/last-commit/JoseMVergara/Ruta_de_aprendizaje_ML?label=%C3%9Altima%20actualizaci%C3%B3n)
+![Última actualización](https://img.shields.io/github/last-commit/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?label=%C3%9Altima%20actualizaci%C3%B3n)
+
 
 
 
@@ -201,33 +202,33 @@ No se requiere experiencia previa en análisis de datos. Lo importante es tener 
 
 # Python (opcional) :exclamation: 
 
-## [:exclamation: Introducción a la programación en Python - Kaggle :page_facing_up: :blue_book:](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
+## [:exclamation: Introducción a la programación en Python - Kaggle :page_facing_up: :blue_book:](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md)
 - **Descripción:** Comience con Python, si no tiene experiencia en codificación.
 - **Duración:** 5 horas
 - **idioma:** Inglés
 - **Contenido:**
-    - [Aritmética y variables](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#aritm%C3%A9tica-y-variables)
-    - [Funciones](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#funciones)
-    - [Tipos de datos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#tipos-de-datos)
-    - [Condiciones y Declaraciones Condicionales](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#condiciones-y-declaraciones-condicionales)
-    - [Introducción a las listas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#introducci%C3%B3n-a-las-listas)
+    - [Aritmética y variables](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#aritm%C3%A9tica-y-variables)
+    - [Funciones](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#funciones)
+    - [Tipos de datos](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#tipos-de-datos)
+    - [Condiciones y Declaraciones Condicionales](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#condiciones-y-declaraciones-condicionales)
+    - [Introducción a las listas](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#introducci%C3%B3n-a-las-listas)
 
 
 
-## [:exclamation: Visualización de datos en Python - Kaggle :page_facing_up: :blue_book:](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md)
+## [:exclamation: Visualización de datos en Python - Kaggle :page_facing_up: :blue_book:](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/python_visualizacion_datos.md)
 - **Descripción:** En este curso práctico, aprenderá cómo llevar sus visualizaciones de datos al siguiente nivel con seaborn, una herramienta de visualización de datos poderosa pero fácil de usar. Para usar seaborn, también aprenderá un poco sobre cómo escribir código en Python, un lenguaje de programación popular. Dicho esto, realice excelentes visualizaciones de datos. ¡Una gran manera de ver el poder de la codificación!
 
 - **Duración:** 4 horas
 - **idioma:** Inglés
 - **Contenido:**
-    - [Seaborn](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#seaborn)
-    - [Gráficos de línea ](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#gr%C3%A1ficos-de-l%C3%ADnea)
-    - [Gráficos de barras y mapas de calor](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#gr%C3%A1ficos-de-barras-y-mapas-de-calor)
-    - [Gráficos de dispersión](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#gr%C3%A1ficos-de-dispersi%C3%B3n)
-    - [Distribuciones](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#distribuciones)
-    - [Escoger tipos de gráficos y estilos personalizados](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#escoger-tipos-de-gr%C3%A1ficos-y-estilos-personalizados)
-    - [Proyecto final](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#proyecto-final)
-    - [Creando tus propios notebooks](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#creando-tus-propios-notebooks)
+    - [Seaborn](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/python_visualizacion_datos.md#seaborn)
+    - [Gráficos de línea ](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/python_visualizacion_datos.md#gr%C3%A1ficos-de-l%C3%ADnea)
+    - [Gráficos de barras y mapas de calor](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/python_visualizacion_datos.md#gr%C3%A1ficos-de-barras-y-mapas-de-calor)
+    - [Gráficos de dispersión](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/python_visualizacion_datos.md#gr%C3%A1ficos-de-dispersi%C3%B3n)
+    - [Distribuciones](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/python_visualizacion_datos.md#distribuciones)
+    - [Escoger tipos de gráficos y estilos personalizados](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/python_visualizacion_datos.md#escoger-tipos-de-gr%C3%A1ficos-y-estilos-personalizados)
+    - [Proyecto final](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/python_visualizacion_datos.md#proyecto-final)
+    - [Creando tus propios notebooks](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/python_visualizacion_datos.md#creando-tus-propios-notebooks)
 
 
 

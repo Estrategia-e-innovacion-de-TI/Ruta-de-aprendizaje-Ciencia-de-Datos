@@ -16,9 +16,9 @@ Esta ruta de aprendizaje consta de cinco modulos. Cada lección incluye maneras 
 
 > **Note**: La ruta de aprendizaje se encuentra en constante actualización.
 
-![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/JoseMVergara/Ruta_de_aprendizaje_ML?color=orange&label=versi%C3%B3n%20actual&logo=version)
+![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?color=orange&label=versi%C3%B3n%20actual&logo=version)
 
-![Última actualización](https://img.shields.io/github/last-commit/JoseMVergara/Ruta_de_aprendizaje_ML?label=%C3%9Altima%20actualizaci%C3%B3n)
+![Última actualización](https://img.shields.io/github/last-commit/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?label=%C3%9Altima%20actualizaci%C3%B3n)
 
 Antes de comenzar, queremos asegurarnos de que todos obtengan el máximo provecho de esta ruta de conocimiento. Para eso, te animamos a que realices un assessment o evaluación inicial para identificar sus fortalezas y debilidades en los temas cubiertos en esta ruta.
 
@@ -36,7 +36,7 @@ Una vez que hayan completado el assessment, podrán identificar en qué áreas t
 |[02-Python](#python)|5 horas|[Introducción a la programación en Python](#introducción-a-la-programación-en-python---kaggle)|Este curso es para usted **si nunca ha escrito una sola línea de código** y está interesado en aprender ciencia de datos y aprendizaje automático. En este curso, aprenderá a usar código para que una computadora realice ciertas tareas por usted. |Kaggle|Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
 |[02-Python](#python)|8 horas|[Introducción a Python](#introducción-a-python---capacidades-analíticas-y-gobierno-de-información)|En este espacio puedes encontrar las memorias de los cursos dictados de Python, así puedes repasar, aclarar dudas y reforzar conocimientos.|Capacidades Analíticas y Gobierno de Información|Video :camera:|
 |[02-Python](#python)|18 horas|[Python básico](#python-básico---skill-hacking)|Con el apoyo del equipo de Transformación y Soporte de Inteligencia de Negocios, se generó este material para aprender los conceptos básicos de este lenguaje que está dando mucho de qué hablar.|Skill hacking|Video :camera:|
-|[03-Pandas](#pandas)|6 horas|[Aprende todos los fundamentas de Pandas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)|Aprenderá a crear sus propios datos y a trabajar con datos que ya existen, seleccionar valores específicos, transformar los datos, agruparlos, reemplazarlos y utilizar funciones. Kaggle|Kaggle | Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
+|[03-Pandas](#pandas)|6 horas|[Aprende todos los fundamentas de Pandas](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#crear-leer-y-escribir)|Aprenderá a crear sus propios datos y a trabajar con datos que ya existen, seleccionar valores específicos, transformar los datos, agruparlos, reemplazarlos y utilizar funciones. Kaggle|Kaggle | Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
 |[04-Estadística](#estadística) | 1 hora|[Estadística para Machine Learning & Inteligencia Artificial](#estadística-para-machine-learning--inteligencia-artificial---estrategía-e-innovación-de-ti)|Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.|Estrategía e Innovación de TI|Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Colab :blue_book:|
 |[05-Machine Learning](#machine-learning) | 5 horas| [Introducción al machine learning en Python](#introducción-al-machine-learning-en-python) | Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos. |Kaggle| Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
 |[05-Machine Learning](#machine-learning) | 16 horas| [Machine Learning Intermedio](#machine-learning-intermedio---python-data-science-handbook-by-jake-vanderplas) |  Este capítulo se sumergirá en los aspectos prácticos del aprendizaje automático, principalmente utilizando el paquete Scikit-Learn de Python. Esto no pretende ser una introducción completa al campo del aprendizaje automático; ese es un tema amplio y requiere un enfoque más técnico que el que adoptamos aquí. Tampoco pretende ser un manual completo para el uso del paquete Scikit-Learn.|Jake VanderPlas| Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Colab :blue_book:|
@@ -109,16 +109,16 @@ Una vez que hayan completado el assessment, podrán identificar en qué áreas t
 
 
 
-## [**Introducción a la programación en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
+## [**Introducción a la programación en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md)
 - **Descripción:** Comience con Python, si no tiene experiencia en codificación.
 - **Duración:** 5 horas
 - **idioma:** Inglés
 - **Contenido:**
-    - [Aritmética y variables](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#aritm%C3%A9tica-y-variables)
-    - [Funciones](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#funciones)
-    - [Tipos de datos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#tipos-de-datos)
-    - [Condiciones y Declaraciones Condicionales](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#condiciones-y-declaraciones-condicionales)
-    - [Introducción a las listas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#introducci%C3%B3n-a-las-listas)
+    - [Aritmética y variables](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#aritm%C3%A9tica-y-variables)
+    - [Funciones](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#funciones)
+    - [Tipos de datos](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#tipos-de-datos)
+    - [Condiciones y Declaraciones Condicionales](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#condiciones-y-declaraciones-condicionales)
+    - [Introducción a las listas](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/introduccion_programacion_kaggle.md#introducci%C3%B3n-a-las-listas)
   
 
 ## [**Introducción a Python - Capacidades Analíticas y Gobierno de Información :camera:**](https://bancolombia.sharepoint.com/:f:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20B%C3%81SICOS/INTRODUCCI%C3%93N%20A%20PYTHON%202022?csf=1&web=1&e=Av7agb)
@@ -155,19 +155,19 @@ Una vez que hayan completado el assessment, podrán identificar en qué áreas t
 
 # **Pandas**
     
-## [**Aprende todos los fundamentos de Pandas - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md)
+## [**Aprende todos los fundamentos de Pandas - Kaggle :page_facing_up: :blue_book:**](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md)
 - **Descripción:** Con los recursos disponibles, aprenderá todo sobre pandas, la biblioteca de Python más popular para el análisis de datos.
 
     En el camino, completará varios ejercicios prácticos con datos del mundo real. Le recomendamos que trabaje en los ejercicios mientras lee los tutoriales correspondientes.
 - **Duración:** 6 horas
 - **Idioma:** Inglés
 - **Contenido:**
-    - [Crear, leer y escribir](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)
-    - [Indexación, selección y asignación](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#indexaci%C3%B3n-selecci%C3%B3n-y-asignaci%C3%B3n)
-    - [Resumen de funciones y maps](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#resumen-de-funciones-y-maps)
-    - [Agrupar y ordenar](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#agrupar-y-ordenar)
-    - [Tipos de datos y valores faltantes](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#tipos-de-datos-y-valores-faltantes)
-    - [Renombrar y combinar](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#renombrar-y-combinar)
+    - [Crear, leer y escribir](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#crear-leer-y-escribir)
+    - [Indexación, selección y asignación](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#indexaci%C3%B3n-selecci%C3%B3n-y-asignaci%C3%B3n)
+    - [Resumen de funciones y maps](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#resumen-de-funciones-y-maps)
+    - [Agrupar y ordenar](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#agrupar-y-ordenar)
+    - [Tipos de datos y valores faltantes](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#tipos-de-datos-y-valores-faltantes)
+    - [Renombrar y combinar](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Pandas.md#renombrar-y-combinar)
 
 
 # **Estadística**
@@ -187,18 +187,18 @@ Una vez que hayan completado el assessment, podrán identificar en qué áreas t
 
 # **Machine Learning**
 
-## [**Introducción al machine learning en Python :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md)
+## [**Introducción al machine learning en Python :page_facing_up: :blue_book:**](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md)
 - **Descripción:** Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos.
 
 - **Duración:** 5 horas
 - **Idioma:** Inglés
 - **Contenido:**
-    - [Cómo funcionan los modelos de machine learning](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#c%C3%B3mo-funcionan-los-modelos-de-machine-learning)
-    - [taxonomia de los modelos de ML](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/ML_Taxonomia.md)
-    - [Exploración básica de los datos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#exploraci%C3%B3n-b%C3%A1sica-de-los-datos)
-    - [Primer modelo de machine learning](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#primer-modelo-de-machine-learning)
-    - [Validación de modelos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#validaci%C3%B3n-de-modelos)
-    - [Subajuste y sobreajuste (underfitting - overfitting)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#subajuste-y-sobreajuste-underfitting---overfitting)
+    - [Cómo funcionan los modelos de machine learning](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md#c%C3%B3mo-funcionan-los-modelos-de-machine-learning)
+    - [taxonomia de los modelos de ML](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/ML_Taxonomia.md)
+    - [Exploración básica de los datos](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md#exploraci%C3%B3n-b%C3%A1sica-de-los-datos)
+    - [Primer modelo de machine learning](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md#primer-modelo-de-machine-learning)
+    - [Validación de modelos](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md#validaci%C3%B3n-de-modelos)
+    - [Subajuste y sobreajuste (underfitting - overfitting)](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md#subajuste-y-sobreajuste-underfitting---overfitting)
 
 
 ## **Machine learning intermedio -  Python Data Science Handbook by Jake VanderPlas :page_facing_up: :blue_book:**
@@ -248,36 +248,36 @@ Una vez que hayan completado el assessment, podrán identificar en qué áreas t
 
 
 
-## [**Series de tiempo - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md)
+## [**Series de tiempo - Kaggle :page_facing_up: :blue_book:**](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md)
 - **Descripción:** Aplique el aprendizaje automático a las tareas de previsión del mundo real.
 
 - **Duración:** 5 horas
 - **Idioma:** Inglés
 - **Contenido:**
-    - [Regresión lineal con series de tiempo](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#regresi%C3%B3n-lineal-con-series-de-tiempo)
-    - [Tendencia](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#tendencia)
-    - [Estacionalidad](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#estacionalidad)
-    - [Serie de tiempo como características](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#serie-de-tiempo-como-caracter%C3%ADsticas)
-    - [Modelos híbridos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#modelos-h%C3%ADbridos)
-    - [Pronóstico con aprendizaje automático (ML)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#pron%C3%B3stico-con-aprendizaje-autom%C3%A1tico-ml)
+    - [Regresión lineal con series de tiempo](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#regresi%C3%B3n-lineal-con-series-de-tiempo)
+    - [Tendencia](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#tendencia)
+    - [Estacionalidad](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#estacionalidad)
+    - [Serie de tiempo como características](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#serie-de-tiempo-como-caracter%C3%ADsticas)
+    - [Modelos híbridos](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#modelos-h%C3%ADbridos)
+    - [Pronóstico con aprendizaje automático (ML)](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#pron%C3%B3stico-con-aprendizaje-autom%C3%A1tico-ml)
 
 
-## [**¿Cómo mejorar la calidad de los modelos de ML? - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md)
+## [**¿Cómo mejorar la calidad de los modelos de ML? - Kaggle :page_facing_up: :blue_book:**](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md)
 - **Descripción:** Si tiene experiencia en aprendizaje automático y te gustaría aprender cómo mejorar rápidamente la calidad de sus modelos, ¡está en el lugar correcto! En este curso, acelerará su experiencia en aprendizaje automático.
 
 - **Duración:** 5 horas
 - **Idioma:** Inglés
 - **Contenido:**
-    - [Valores faltantes](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#valores-faltantes)
-    - [Variables categoricas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#variables-categoricas)
-    - [Validación cruzada (Cross-Validation)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#validaci%C3%B3n-cruzada-cross-validation)
-    - [Ingeniería de características (feature engineering)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#ingenier%C3%ADa-de-caracter%C3%ADsticas-feature-engineering)
-        - [¿Qué es ingeniería de características?](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#qu%C3%A9-es-ingenier%C3%ADa-de-caracter%C3%ADsticas)
-        - [Información mutua](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#informaci%C3%B3n-mutua)
-        - [Creación de características](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#creaci%C3%B3n-de-caracter%C3%ADsticas)
-        - [Clusterización con K-Means](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#clusterizaci%C3%B3n-con-k-means)
-        - [Analisís de componentes principales (PCA)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#analis%C3%ADs-de-componentes-principales-pca)
-        - [Códificación de variables](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#c%C3%B3dificaci%C3%B3n-de-variables)
+    - [Valores faltantes](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#valores-faltantes)
+    - [Variables categoricas](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#variables-categoricas)
+    - [Validación cruzada (Cross-Validation)](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#validaci%C3%B3n-cruzada-cross-validation)
+    - [Ingeniería de características (feature engineering)](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#ingenier%C3%ADa-de-caracter%C3%ADsticas-feature-engineering)
+        - [¿Qué es ingeniería de características?](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#qu%C3%A9-es-ingenier%C3%ADa-de-caracter%C3%ADsticas)
+        - [Información mutua](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#informaci%C3%B3n-mutua)
+        - [Creación de características](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#creaci%C3%B3n-de-caracter%C3%ADsticas)
+        - [Clusterización con K-Means](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#clusterizaci%C3%B3n-con-k-means)
+        - [Analisís de componentes principales (PCA)](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#analis%C3%ADs-de-componentes-principales-pca)
+        - [Códificación de variables](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#c%C3%B3dificaci%C3%B3n-de-variables)
 
 <!-- https://github.com/microsoft/Data-Science-For-Beginners
 https://github.com/microsoft/ML-For-Beginners/blob/main/1-Introduction/4-techniques-of-ML/README.md

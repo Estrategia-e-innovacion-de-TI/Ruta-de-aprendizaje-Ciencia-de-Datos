@@ -18,9 +18,10 @@ No se requiere experiencia previa en Machine Learning, aunque se recomienda tene
 
 > **Note**: La ruta de aprendizaje se encuentra en constante actualización.
 
-![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/JoseMVergara/Ruta_de_aprendizaje_ML?color=orange&label=versi%C3%B3n%20actual&logo=version)
+![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?color=orange&label=versi%C3%B3n%20actual&logo=version)
 
-![Última actualización](https://img.shields.io/github/last-commit/JoseMVergara/Ruta_de_aprendizaje_ML?label=%C3%9Altima%20actualizaci%C3%B3n)
+![Última actualización](https://img.shields.io/github/last-commit/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos?label=%C3%9Altima%20actualizaci%C3%B3n)
+
 
 | Modulo | Duración |Lección| Descripción | Fuente|Modalidad|
 |----------- |----------- |----------- |----------- |----------- |----------- |
@@ -107,18 +108,18 @@ No se requiere experiencia previa en Machine Learning, aunque se recomienda tene
     - [Ejercicio práctico de conceptos aprendidos](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=60laiEpK-EsO)
 
 
-## [**Introducción al machine learning en Python :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md)
+## [**Introducción al machine learning en Python :page_facing_up: :blue_book:**](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md)
 - **Descripción:** Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos.
 
 - **Duración:** 5 horas
 - **Idioma:** Inglés
 - **Contenido:**
-    - [Cómo funcionan los modelos de machine learning](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#c%C3%B3mo-funcionan-los-modelos-de-machine-learning)
-    - [taxonomia de los modelos de ML](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/ML_Taxonomia.md)
-    - [Exploración básica de los datos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#exploraci%C3%B3n-b%C3%A1sica-de-los-datos)
-    - [Primer modelo de machine learning](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#primer-modelo-de-machine-learning)
-    - [Validación de modelos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#validaci%C3%B3n-de-modelos)
-    - [Subajuste y sobreajuste (underfitting - overfitting)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#subajuste-y-sobreajuste-underfitting---overfitting)
+    - [Cómo funcionan los modelos de machine learning](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md#c%C3%B3mo-funcionan-los-modelos-de-machine-learning)
+    - [taxonomia de los modelos de ML](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/ML_Taxonomia.md)
+    - [Exploración básica de los datos](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md#exploraci%C3%B3n-b%C3%A1sica-de-los-datos)
+    - [Primer modelo de machine learning](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md#primer-modelo-de-machine-learning)
+    - [Validación de modelos](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md#validaci%C3%B3n-de-modelos)
+    - [Subajuste y sobreajuste (underfitting - overfitting)](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Intro_ML.md#subajuste-y-sobreajuste-underfitting---overfitting)
 
 ## **Machine learning intermedio -  Python Data Science Handbook by Jake VanderPlas :page_facing_up: :blue_book:**
 - **Descripción:** Este capítulo se sumergirá en los aspectos prácticos del aprendizaje automático, principalmente utilizando el paquete Scikit-Learn de Python. Esto no pretende ser una introducción completa al campo del aprendizaje automático; ese es un tema amplio y requiere un enfoque más técnico que el que adoptamos aquí. Tampoco pretende ser un manual completo para el uso del paquete Scikit-Learn. Más bien, los objetivos de este capítulo son:
@@ -167,36 +168,36 @@ No se requiere experiencia previa en Machine Learning, aunque se recomienda tene
 
 
 
-## [**Series de tiempo - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md)
+## [**Series de tiempo - Kaggle :page_facing_up: :blue_book:**](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md)
 - **Descripción:** Aplique el aprendizaje automático a las tareas de previsión del mundo real.
 
 - **Duración:** 5 horas
 - **Idioma:** Inglés
 - **Contenido:**
-    - [Regresión lineal con series de tiempo](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#regresi%C3%B3n-lineal-con-series-de-tiempo)
-    - [Tendencia](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#tendencia)
-    - [Estacionalidad](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#estacionalidad)
-    - [Serie de tiempo como características](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#serie-de-tiempo-como-caracter%C3%ADsticas)
-    - [Modelos híbridos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#modelos-h%C3%ADbridos)
-    - [Pronóstico con aprendizaje automático (ML)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#pron%C3%B3stico-con-aprendizaje-autom%C3%A1tico-ml)
+    - [Regresión lineal con series de tiempo](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#regresi%C3%B3n-lineal-con-series-de-tiempo)
+    - [Tendencia](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#tendencia)
+    - [Estacionalidad](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#estacionalidad)
+    - [Serie de tiempo como características](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#serie-de-tiempo-como-caracter%C3%ADsticas)
+    - [Modelos híbridos](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#modelos-h%C3%ADbridos)
+    - [Pronóstico con aprendizaje automático (ML)](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/TimeSeries.md#pron%C3%B3stico-con-aprendizaje-autom%C3%A1tico-ml)
 
 
-## [**¿Cómo mejorar la calidad de los modelos de ML? - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md)
+## [**¿Cómo mejorar la calidad de los modelos de ML? - Kaggle :page_facing_up: :blue_book:**](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md)
 - **Descripción:** Si tiene experiencia en aprendizaje automático y te gustaría aprender cómo mejorar rápidamente la calidad de sus modelos, ¡está en el lugar correcto! En este curso, acelerará su experiencia en aprendizaje automático.
 
 - **Duración:** 5 horas
 - **Idioma:** Inglés
 - **Contenido:**
-    - [Valores faltantes](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#valores-faltantes)
-    - [Variables categoricas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#variables-categoricas)
-    - [Validación cruzada (Cross-Validation)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#validaci%C3%B3n-cruzada-cross-validation)
-    - [Ingeniería de características (feature engineering)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#ingenier%C3%ADa-de-caracter%C3%ADsticas-feature-engineering)
-        - [¿Qué es ingeniería de características?](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#qu%C3%A9-es-ingenier%C3%ADa-de-caracter%C3%ADsticas)
-        - [Información mutua](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#informaci%C3%B3n-mutua)
-        - [Creación de características](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#creaci%C3%B3n-de-caracter%C3%ADsticas)
-        - [Clusterización con K-Means](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#clusterizaci%C3%B3n-con-k-means)
-        - [Analisís de componentes principales (PCA)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#analis%C3%ADs-de-componentes-principales-pca)
-        - [Códificación de variables](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#c%C3%B3dificaci%C3%B3n-de-variables)
+    - [Valores faltantes](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#valores-faltantes)
+    - [Variables categoricas](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#variables-categoricas)
+    - [Validación cruzada (Cross-Validation)](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#validaci%C3%B3n-cruzada-cross-validation)
+    - [Ingeniería de características (feature engineering)](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#ingenier%C3%ADa-de-caracter%C3%ADsticas-feature-engineering)
+        - [¿Qué es ingeniería de características?](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#qu%C3%A9-es-ingenier%C3%ADa-de-caracter%C3%ADsticas)
+        - [Información mutua](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#informaci%C3%B3n-mutua)
+        - [Creación de características](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#creaci%C3%B3n-de-caracter%C3%ADsticas)
+        - [Clusterización con K-Means](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#clusterizaci%C3%B3n-con-k-means)
+        - [Analisís de componentes principales (PCA)](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#analis%C3%ADs-de-componentes-principales-pca)
+        - [Códificación de variables](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/Mid_ML.md#c%C3%B3dificaci%C3%B3n-de-variables)
 
 # **MLOps & Model deployment**
 
