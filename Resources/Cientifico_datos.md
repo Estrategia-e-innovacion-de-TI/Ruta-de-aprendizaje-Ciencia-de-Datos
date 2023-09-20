@@ -172,16 +172,17 @@ Una vez que hayan completado el assessment, podrán identificar en qué áreas t
 
 # **Estadística**
 
-## [**Estadística para Machine Learning & Inteligencia Artificial - Estrategía e Innovación de TI :page_facing_up: :blue_book:**](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN?usp=sharing)
+## [**Estadística para Machine Learning & Inteligencia Artificial - Estrategía e Innovación de TI :page_facing_up: :blue_book:**](https://www.kaggle.com/code/josevergaraalv/estadistica-ml)
+<!-- (https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN?usp=sharing) -->
 
 - **Descripción:** Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.
 - **Duración:** 1 hora
 - **idioma:** Español
 - **Contenido:**
-    - [Probabilidad y variables aleatorias](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=_zsQMbEglxCQ&line=1&uniqifier=1)
-    - [Distribuciones de probabilidad y principales medidas](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=zVAZB6X9l8eJ) 
-    - [Covarianza y correlación](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=Y-sSfyEgmj8d)
-    - [Ejercicio práctico de conceptos aprendidos](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=60laiEpK-EsO)
+    - [Probabilidad y variables aleatorias](https://www.kaggle.com/code/josevergaraalv/estadistica-ml#Probabilidad-y-variables-aleatorias)
+    - [Distribuciones de probabilidad y principales medidas](https://www.kaggle.com/code/josevergaraalv/estadistica-ml#Probabilidad-y-variables-aleatorias) 
+    - [Covarianza y correlación](https://www.kaggle.com/code/josevergaraalv/estadistica-ml#Covarianza-y-Correlaci%C3%B3n)
+    - [Ejercicio práctico de conceptos aprendidos](https://www.kaggle.com/code/josevergaraalv/estadistica-ml#Ejercicio-de-conceptos-aprendidos)
 
 
 
@@ -210,15 +211,15 @@ Una vez que hayan completado el assessment, podrán identificar en qué áreas t
 - **Duración:** 16 horas
 - **Idioma:** Inglés
 - **Contenido:**
-    - [Refuerza tu conocimiento: Conceptos fundamentales del machine learning.](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.01-What-Is-Machine-Learning.ipynb#scrollTo=qXNmzTMrdYl-)
-    - [Introducción a Scikit-Learn](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb#scrollTo=nUIxlZdRdUHD)
+    - [Refuerza tu conocimiento: Conceptos fundamentales del machine learning.](https://www.kaggle.com/code/josevergaraalv/machine-learning-fundamentals)
+    - [Introducción a Scikit-Learn](https://www.kaggle.com/code/josevergaraalv/05-02-introducing-scikit-learn)
         - Representación de datos en Scikit-Learn
         - Ejemplo Aprendizaje supervisado: Regresión lineal simple
         - Ejemplo Aprendizaje supervisado: Clasificación
         - Ejemplo Aprendizaje no supervisado: Reducción dimensionalidad
         - Ejemplo Aprendizaje no supervisado: Agrupación (Clustering)
         - Aplicación: Explorando dígitos escritos a mano 
-    - [Machine Learning con Scikit-Learn - ASTG Python courses](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_scikit-learn.ipynb)
+    - [Machine Learning con Scikit-Learn - ASTG Python courses](https://www.kaggle.com/josevergaraalv/ml-models-scikit-learn)
         - Regresión:
             - Analisís exploratorio de los datos
             - Proceso de selección de modelo
@@ -232,7 +233,7 @@ Una vez que hayan completado el assessment, podrán identificar en qué áreas t
             - Modelo usando Random Forest 
             - Modelo usando Gradien Boosting
             - Modelo usando MLP
-    - [Hiperparámetros y Validación de Modelos](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb#scrollTo=ljv20_qik6Zn)
+    - [Hiperparámetros y Validación de Modelos](https://www.kaggle.com/josevergaraalv/05-03-hyperparameters-and-model-validation)
         - Forma incorrecta de validar modelos
         - Forma correcta de validar modelos: Conjuntos de entrenamiento y prueba
         - Validación de modelos vía Validación cruzada
@@ -240,11 +241,11 @@ Una vez que hayan completado el assessment, podrán identificar en qué áreas t
         - Curvas de validación en Scikit-Learn
         - Curvas de aprendizaje
         - Grid Search 
-    - [En profundidad: Regresión Lineal](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb)
-    - [En profundidad: máquinas de vectores de soporte - SVM](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.07-Support-Vector-Machines.ipynb#scrollTo=kIIucjBCpZnn)
-    - [En profundidad: Árboles de decisión y Bosques aleatorios (Decision Trees and Random Forest)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb)
-    - [En profundidad: Analísis de componentes principales - PCA](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb)
-    - [En profundidad: K-Medias (K-Means)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)
+    - [En profundidad: Regresión Lineal](https://www.kaggle.com/josevergaraalv/05-06-linear-regression)
+    - [En profundidad: máquinas de vectores de soporte - SVM](https://www.kaggle.com/josevergaraalv/05-07-support-vector-machines)
+    - [En profundidad: Árboles de decisión y Bosques aleatorios (Decision Trees and Random Forest)](https://www.kaggle.com/josevergaraalv/05-08-random-forests)
+    - [En profundidad: Analísis de componentes principales - PCA](https://www.kaggle.com/josevergaraalv/05-09-principal-component-analysis)
+    - [En profundidad: K-Medias (K-Means)](https://www.kaggle.com/josevergaraalv/05-11-k-means)
 
 
 

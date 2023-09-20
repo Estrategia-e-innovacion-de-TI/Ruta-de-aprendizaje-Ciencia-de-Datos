@@ -148,16 +148,17 @@ No se requiere experiencia previa en análisis de datos. Lo importante es tener 
 
 # **Estadística**
 
-## [**Estadística para Machine Learning & Inteligencia Artificial - Estrategía e Innovación de TI :page_facing_up: :blue_book:**](https://colab.research.google.com/drive/1Engh2TdiUmZyzLiZ5utqMC1IG6sxAX1M?usp=sharing)
+## [**Estadística para Machine Learning & Inteligencia Artificial - Estrategía e Innovación de TI :page_facing_up: :blue_book:**](https://www.kaggle.com/code/josevergaraalv/estadistica-ml)
+<!-- (https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN?usp=sharing) -->
 
-- **Descripción:** Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis. No es necesario que te centres en el código, la idea es que adquieras algunas bases de conceptos estadísticos para realizar analísis en tus datos independiente de la herramienta. 
+- **Descripción:** Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.
 - **Duración:** 1 hora
 - **idioma:** Español
 - **Contenido:**
-    - [Probabilidad y variables aleatorias](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=_zsQMbEglxCQ&line=1&uniqifier=1)
-    - [Distribuciones de probabilidad y principales medidas](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=zVAZB6X9l8eJ) 
-    - [Covarianza y correlación](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=Y-sSfyEgmj8d)
-    - [Ejercicio práctico de conceptos aprendidos](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=60laiEpK-EsO)
+    - [Probabilidad y variables aleatorias](https://www.kaggle.com/code/josevergaraalv/estadistica-ml#Probabilidad-y-variables-aleatorias)
+    - [Distribuciones de probabilidad y principales medidas](https://www.kaggle.com/code/josevergaraalv/estadistica-ml#Probabilidad-y-variables-aleatorias) 
+    - [Covarianza y correlación](https://www.kaggle.com/code/josevergaraalv/estadistica-ml#Covarianza-y-Correlaci%C3%B3n)
+    - [Ejercicio práctico de conceptos aprendidos](https://www.kaggle.com/code/josevergaraalv/estadistica-ml#Ejercicio-de-conceptos-aprendidos)
 
 # SQL (opcional) :exclamation: 
 
