@@ -20,7 +20,7 @@ En este documento encontrarás una breve descripción de cada uno de los roles a
       Los roles analíticos son una parte vital de cualquier organización moderna que busque aprovechar el poder de los datos para mejorar sus procesos y tomar decisiones más informadas. Cada uno de los roles analíticos tiene sus propias habilidades y responsabilidades únicas, y juntos trabajan para construir una infraestructura de datos sólida y eficiente que pueda soportar las necesidades de la empresa.
     </td>
     <td>
-      <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/Yhnr40kaeg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+      <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/FEa2diI2qgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
     </td>
   </tr>
 </table>
